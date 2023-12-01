@@ -80,7 +80,6 @@ table{
 
 img{
         float: left;
-        width: 256px;
         height: 256px;
 }
 
@@ -92,5 +91,4 @@ img{
 
 .imgtxt p{
     text-align: center;
-    width: 128px;
 }
